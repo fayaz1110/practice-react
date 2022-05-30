@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "firstName": "Adam",
+      "lastName": "Smith",
+      "checkbox": "false",
+      "id": 1
+    },
+    {
+      "firstName": "Kevin",
+      "lastName": "Peterson",
+      "checkbox": "false",
+      "id": 2
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "waugh",
+      "checkbox": "false",
+      "id": 3
+    },
+    {
+      "firstName": "Mary",
+      "lastName": "Com",
+      "checkbox": "true",
+      "id": 0.7486944316614785
+    }
+  ]
+}
